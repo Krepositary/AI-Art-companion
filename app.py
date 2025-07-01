@@ -2,7 +2,7 @@
 import streamlit as st
 from streamlit_drawable_canvas import st_canvas
 import random
-
+#Follow the code
 # --- Page Setup ---
 st.set_page_config(page_title="Art Lab + Chat Companion", page_icon="🎨", layout="wide")
 st.title("🎨 Art Lab + Chat Companion")
