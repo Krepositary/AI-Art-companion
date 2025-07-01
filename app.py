@@ -1,3 +1,4 @@
+#install and import the necessar libraries 
 import streamlit as st
 from streamlit_drawable_canvas import st_canvas
 import random
